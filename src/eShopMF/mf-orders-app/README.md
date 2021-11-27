@@ -1,0 +1,1 @@
+A react app for displaying Orders using Module Federation.

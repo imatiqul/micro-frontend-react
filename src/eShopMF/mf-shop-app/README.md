@@ -1,0 +1,1 @@
+A react web app for consuming Shared Header and Catalogs from different apps using Module Federation.

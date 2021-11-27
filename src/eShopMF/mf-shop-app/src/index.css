@@ -1,0 +1,66 @@
+body {
+  border-color: #B0C4DE;
+  border-width: 2px;
+  border-style: solid;
+}
+
+  .esh-app-header {
+      background: url('./assets/images/header.jpg') center -2.7rem no-repeat, linear-gradient(90deg, #5F6571 0%, #5F6571 35%, #CFC6BF 65%, #CFC6BF 100%);
+      background-size: 94rem, auto;
+      height: 13rem;
+      padding-top: 2.25rem;
+      position: relative;
+      transition: all .35s;
+
+      
+  }
+  .esh-app-header-expanded {
+    background-position: center top;
+    background-size: 87rem, auto;
+    height: 29rem;
+
+    
+}
+
+  .esh-app-header-brand {
+      height: auto;
+      width: 92px;
+  }
+
+  .esh-app-header-promo {
+      bottom: 3.5rem;
+      opacity: 1;
+      position: absolute;
+      text-align: center;
+      transition: all .35s;
+      width: 100%;
+  }
+
+  .esh-app-header-promo-title {
+      display: block;
+      color: rgba(#fff, .3);
+      font-size: 5rem;
+      line-height: 5rem;
+      word-wrap: none;
+  }
+
+  .esh-app-header-promo-subtitle {
+      display: block;
+      color: #fff;
+      font-size: 1.25rem;
+  }
+
+  .esh-app-footer {
+      background-color: #81828d;
+      color: #fff;
+      font-size: 1rem;
+      display: flex;
+      height: 7rem;
+      margin-top: auto;
+
+  }
+  
+  .esh-app-brand {
+    height: auto;
+    width: 104px;
+}

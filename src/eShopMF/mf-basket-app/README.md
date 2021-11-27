@@ -1,0 +1,1 @@
+A react web app for displaying shpping carts using Module Federation.
