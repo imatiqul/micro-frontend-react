@@ -199,7 +199,7 @@ Project Link: [https://github.com/imatiqul/eShopFederated](https://github.com/im
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/imatiqul/eShopFederated.svg?style=for-the-badge
 [issues-url]: https://github.com/imatiqul/eShopFederated/issues
-[license-shield]: https://img.shields.io/github/license/imatiqul/eShopFederated.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/imatiqul/eShopFederated
 [license-url]: https://github.com/imatiqul/eShopFederated/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mdatiqulislam/
