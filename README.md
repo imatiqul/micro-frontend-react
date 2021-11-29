@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/imatiqul/eShopFederated">
+  <a href="//github.com/imatiqul/eShopFederated">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Module Federation gives us a new method of sharing code between applications at runtime. To do that, we need to envision a fairly common scenario like [eShopContainers](https://github.com/dotnet-architecture/eShopOnContainers) with Micro-frontend Architecture.
-[![Product Name Screen Shot][product-screenshot]](https://module-federation.myshopify.com/)
+[![Product Name Screen Shot][microfrontend-screenshot]](images/eShopOnContainers-architecture.png)
 
 Here's why:
 * A containerized architecture is a scalable solution for backend
@@ -150,7 +150,7 @@ _Below is the instructions of how you can install and run the app._
    yarn
    yarn start
    ```
-
+[![Product Name Screen Shot][product-screenshot]](images/eShopOnContainers-architecture.png)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
@@ -203,5 +203,6 @@ Project Link: [https://github.com/imatiqul/eShopFederated](https://github.com/im
 [license-url]: https://github.com/imatiqul/eShopFederated/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mdatiqulislam/
-[product-screenshot]: images/MicroFrontend-Architecture-v1.png
+[microfrontend-screenshot]: images/MicroFrontend-Architecture-v1.png
 [microservice-screenshot]: images/eShopOnContainers-architecture.png
+[product-screenshot]: images/eShopFederated.jpg
