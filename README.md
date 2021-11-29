@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Module Federation gives us a new method of sharing code between applications at runtime. To do that, we need to envision a fairly common scenario like [eShopContainers](https://github.com/dotnet-architecture/eShopOnContainers) with Micro-frontend Architecture.
-[![Product Name Screen Shot][microfrontend-screenshot]](images/eShopOnContainers-architecture.png)
+[![Product Name Screen Shot][microfrontend-screenshot]](images/MicroFrontend-Architecture-v1.png)
 
 Here's why:
 * A containerized architecture is a scalable solution for backend
@@ -150,7 +150,7 @@ _Below is the instructions of how you can install and run the app._
    yarn
    yarn start
    ```
-[![Product Name Screen Shot][product-screenshot]](images/eShopOnContainers-architecture.png)
+[![Product Name Screen Shot][product-screenshot]](images/eShopFederated.jpg)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
