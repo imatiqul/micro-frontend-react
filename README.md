@@ -120,7 +120,7 @@ _Below is the instructions of how you can install and run the app._
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/imatiqul/eShopFederated.git
    ```
 2. Go to src/eShopMF   
    ```sh
