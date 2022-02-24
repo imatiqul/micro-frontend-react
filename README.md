@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!--
-*** Thanks for review eShop Federated project
+*** Thanks for review Micro-Frontend React project
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="//github.com/imatiqul/eShopFederated">
+  <a href="//github.com/imatiqul/micro-frontend-react">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,9 +26,9 @@
     <a href="#getting-started"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="//github.com/imatiqul/eShopFederated/issues">Report Bug</a>
+    <a href="//github.com/imatiqul/micro-frontend-react/issues">Report Bug</a>
     ·
-    <a href="//github.com/imatiqul/eShopFederated/issues">Request Feature</a>
+    <a href="//github.com/imatiqul/micro-frontend-react/issues">Request Feature</a>
   </p>
 </div>
 
@@ -186,7 +186,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ATIQUL ISLAM - [@ATIQ](https://imatiqul.com/) - islam.md.atiqul@gmail.com
 
-Project Link: [https://github.com/imatiqul/eShopFederated](https://github.com/imatiqul/eShopFederated)
+Project Link: [https://github.com/imatiqul/micro-frontend-react](https://github.com/imatiqul/micro-frontend-react)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,9 +198,9 @@ Project Link: [https://github.com/imatiqul/eShopFederated](https://github.com/im
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/imatiqul/eShopFederated.svg?style=for-the-badge
-[issues-url]: https://github.com/imatiqul/eShopFederated/issues
-[license-shield]: https://img.shields.io/github/license/imatiqul/eShopFederated?style=for-the-badge
-[license-url]: https://github.com/imatiqul/eShopFederated/blob/master/LICENSE.txt
+[issues-url]: https://github.com/imatiqul/micro-frontend-react/issues
+[license-shield]: https://img.shields.io/github/license/imatiqul/micro-frontend-react?style=for-the-badge
+[license-url]: https://github.com/imatiqul/micro-frontend-react/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mdatiqulislam/
 [microfrontend-screenshot]: images/MicroFrontend-Architecture-v1.png
