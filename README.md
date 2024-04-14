@@ -21,7 +21,7 @@
   <h3 align="center">Micro-frontend Applications</h3>
 
   <p align="center">
-    Sample Micro-frontend applications, based on a simplified micro-frontend architecture and Module Federation.
+    Module Federation is a powerful tool for implementing micro-frontend architecture in frontend applications. It allows different teams to build and deploy their own independent frontend components, which can then be dynamically loaded and composed together at runtime within a larger application.
     <br />
     <a href="#getting-started"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,7 +60,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Module Federation gives us a new method of sharing code between applications at runtime. To do that, we need to envision a fairly common scenario like [eShopContainers](https://github.com/dotnet-architecture/eShopOnContainers) with Micro-frontend Architecture.
+Module Federation gives us a new method of sharing code between applications at runtime. To do so, we need to envision a fairly common scenario like [eShopContainers](https://github.com/dotnet-architecture/eShopOnContainers) with Micro-frontend Architecture.
 [![Product Name Screen Shot][microfrontend-screenshot]](images/MicroFrontend-Architecture-v1.png)
 
 Here's why:
